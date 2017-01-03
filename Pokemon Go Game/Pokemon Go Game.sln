@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C8D6F863-195A-1043-10B6-3A50B698F735}") = "Pokemon Go Game", "Assembly-CSharp-firstpass.csproj", "{C4FDCA8B-9658-7A3B-B729-9FD48D4CF3B7}"
+EndProject
+Project("{C8D6F863-195A-1043-10B6-3A50B698F735}") = "Pokemon Go Game", "Assembly-CSharp.csproj", "{3EB73EA2-F394-DEAB-FDB5-032BFF9941DB}"
+EndProject
+Project("{C8D6F863-195A-1043-10B6-3A50B698F735}") = "Pokemon Go Game", "Assembly-CSharp-Editor-firstpass.csproj", "{698FCF90-A20E-53DE-6D95-04CB284E3ED0}"
+EndProject
+Project("{C8D6F863-195A-1043-10B6-3A50B698F735}") = "Pokemon Go Game", "Assembly-CSharp-Editor.csproj", "{F8F2054D-3966-C238-1BC5-AC74CAE727DC}"
+EndProject
+Project("{C8D6F863-195A-1043-10B6-3A50B698F735}") = "Pokemon Go Game", "Assembly-UnityScript-Editor-firstpass.unityproj", "{83EBEF37-CE05-DFA4-17FF-DCFD6F277B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FDCA8B-9658-7A3B-B729-9FD48D4CF3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FDCA8B-9658-7A3B-B729-9FD48D4CF3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FDCA8B-9658-7A3B-B729-9FD48D4CF3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FDCA8B-9658-7A3B-B729-9FD48D4CF3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB73EA2-F394-DEAB-FDB5-032BFF9941DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB73EA2-F394-DEAB-FDB5-032BFF9941DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB73EA2-F394-DEAB-FDB5-032BFF9941DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB73EA2-F394-DEAB-FDB5-032BFF9941DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698FCF90-A20E-53DE-6D95-04CB284E3ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698FCF90-A20E-53DE-6D95-04CB284E3ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698FCF90-A20E-53DE-6D95-04CB284E3ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698FCF90-A20E-53DE-6D95-04CB284E3ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F2054D-3966-C238-1BC5-AC74CAE727DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F2054D-3966-C238-1BC5-AC74CAE727DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F2054D-3966-C238-1BC5-AC74CAE727DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F2054D-3966-C238-1BC5-AC74CAE727DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83EBEF37-CE05-DFA4-17FF-DCFD6F277B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EBEF37-CE05-DFA4-17FF-DCFD6F277B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EBEF37-CE05-DFA4-17FF-DCFD6F277B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EBEF37-CE05-DFA4-17FF-DCFD6F277B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
